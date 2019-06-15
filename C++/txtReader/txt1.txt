@@ -1,0 +1,4 @@
+vitor,17,engenharia,masculino,
+aaaaa,20,engenharia2,masculino,
+yolk,13,engenharia3,feminino,
+egg,25,engenharia4,masculino
